@@ -23,3 +23,5 @@ main img{
     from{ transform: rotate(-360deg); }
     to{ transform: rotate(360deg); }
 }
+
+/* This css file has been changed too */
